@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+pillow
+py7zr
+tensorflow  # Alternatively, you can list torch and torchvision if you plan to use PyTorch
+jupyterlab  # For interactive notebooks
+
+tensorflow
